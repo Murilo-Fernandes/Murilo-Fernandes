@@ -17,7 +17,7 @@ Sou um graduando de Análise e Desenvolvimento de Sistemas, atualmente no quarto
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilo-fernandes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=murilo-fernandes&theme=midnight-purple&background=000&border=8300ff&dates=FFF])
+[![GitHub Streak](https://streak-stats.demolab.com/?user=murilo-fernandes&theme=dark)](https://git.io/streak-stats)
 
 ## Outras Habilidades
 - 🌐 Nível de inglês - Intermediario.
