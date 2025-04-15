@@ -1,7 +1,7 @@
 # Murilo Fernandes 
 
 ## Sobre mim 
-Sou um graduando de Análise e Desenvolvimento de Sistemas, atualmente no terceiro semestre. No momento estou aprendendo Python.
+Sou um graduando de Análise e Desenvolvimento de Sistemas, atualmente no quarto semestre. No momento estou aprendendo Python.
 
 ## 🔗 Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmuridev)
