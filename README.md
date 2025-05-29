@@ -1,23 +1,72 @@
-# Murilo Fernandes 
+<div align="center">
 
-## Sobre mim 
-Sou um graduando de Análise e Desenvolvimento de Sistemas, atualmente no quarto semestre. No momento estou aprendendo Python.
+# Murilo Fernandes ✨
 
-## 🔗 Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xmuridev)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilofernandes23)
+💻 *Desenvolvedor Full-Stack* 💻
 
-## 🛠 Habilidades
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+</div>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=murilo-fernandes&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF) 
+---
 
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=murilo-fernandes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+## 🌟 Sobre Mim
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=murilo-fernandes&theme=dark)](https://git.io/streak-stats)
+Sou estudante de Análise e Desenvolvimento de Sistemas (4º semestre) com foco em desenvolvimento Full-Stack. Atualmente estou aprofundando meus conhecimentos em Python e Java, enquanto exploro o mundo do desenvolvimento web e de aplicações.
 
-## Outras Habilidades
-- 🌐 Nível de inglês - Intermediario.
+---
+
+## 🔗 Conecte-se Comigo
+
+<p align="center">
+  <a href="https://github.com/xmuridev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/murilofernandes23">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tecnologias e Habilidades
+
+<div align="center">
+
+### 💻 Linguagens de Programação
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="55"/>
+
+### 🌐 Front-end
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="55"/>
+
+### 🗃️ Banco de Dados
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" width="55"/>
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=murilo-fernandes&show_icons=true&theme=radical&hide_border=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-fernandes&layout=compact&theme=radical&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=murilo-fernandes&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+
+
+<div align="center">
+
+*Conspiracy Victim* 
+
+</div>
